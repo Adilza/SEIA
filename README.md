@@ -1,5 +1,5 @@
 # SEIA
-Automação  Projeto SEMA-SEIA
+Automação  Projeto Face
 
 Passos:
 
